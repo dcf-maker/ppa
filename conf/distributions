@@ -1,0 +1,10 @@
+Origin: apt.aframe.com
+Label: apt repository
+Codename: buster
+Architectures: armhf source
+Components: main
+Description: debian package repo
+SignWith: yes
+Pull: buster
+
+
