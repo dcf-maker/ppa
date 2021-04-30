@@ -1,0 +1,21 @@
+Package: megacmd
+Version: 1.2.0-6.1
+Architecture: armhf
+Maintainer: MEGA Linux Team <linux@mega.co.nz>
+Installed-Size: 12471
+Depends: libatomic1 (>= 4.8), libc-ares2 (>= 1.7.4), libc6 (>= 2.28), libcrypto++6, libgcc1 (>= 1:4.0), libmediainfo0v5 (>= 0.7.56), libpcre3, libpcrecpp0v5 (>= 7.7), libssl1.1 (>= 1.1.1), libstdc++6 (>= 5.2), libzen0v5 (>= 0.4.31-2~), zlib1g (>= 1:1.1.4), apt-transport-https
+Filename: ./megacmd_10.0_armhf.deb
+Size: 3155542
+MD5sum: bcfb259cec014a0aee0d0ff4ca95a7a1
+SHA1: c4a3498414798e4c65636dff24fcc9b34076dc62
+SHA256: 926742cd1ef248be1af13ecdbb6e66b8156d6c4db036a935e4dac18c86cf5f61
+Section: Tools
+Priority: normal
+Description: MEGA Command Line Interactive and Scriptable Application
+ MEGAcmd provides non UI access to MEGA services.
+ It intends to offer all the functionality
+ with your MEGA account via shell interaction.
+ It features 2 modes of interaction
+  - interactive. A shell to query your actions
+  - scriptable. A way to execute commands from a shell/a script/another program.
+
