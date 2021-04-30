@@ -1,4 +1,4 @@
-Origin: apt.aframe.com
+Origin: github.com/dcf-maker/ppa
 Label: apt repository
 Codename: buster
 Architectures: armhf source

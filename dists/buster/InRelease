@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: github.com/dcf-maker/ppa
+Label: apt repository
+Codename: buster
+Date: Fri, 30 Apr 2021 16:34:34 UTC
+Architectures: armhf
+Components: main
+Description: debian package repo
+MD5Sum:
+ 8f82afdade21df0a678784b38670ab75 1042 main/binary-armhf/Packages
+ 60984236fd908a6f75938f5b3462d3f5 654 main/binary-armhf/Packages.gz
+ 8fe9e74da932598f9dd5847e68f9207c 124 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ f202d641ec83502f94f865fbf3dd5c0b 125 main/source/Release
+SHA1:
+ f4ad5d5fa8e3a864186b44a96671ae9bb6ebe378 1042 main/binary-armhf/Packages
+ 69dcc56c39b4e3fb0a3f38b75ca151511c33ef86 654 main/binary-armhf/Packages.gz
+ bc879536e3b20b249da205dca855131a379ecc5c 124 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 76a1aef90d12403036cd1c2eb1eb18b776b75a4a 125 main/source/Release
+SHA256:
+ 15202c5206f4e6fde4ba1cbaf9ccee70d58ee62670b084645f921b4f9338e01d 1042 main/binary-armhf/Packages
+ ccf0ff9d927d13f2ce0659899520dc49fc4f362549a4642df93ab8759ca96ad4 654 main/binary-armhf/Packages.gz
+ d32eee1265e6d4aed67bf00c26d991cd94cbaaf384fe975d6be10dab40c79139 124 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 75e2a26e258945024f1ab5b0cfc9d86dc285a2f75834004c70ef2dab35137892 125 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEmMoLDk0NmiZzPvh6kTPD1kbpP14FAmCMMZoACgkQkTPD1kbp
+P14a4QwAhbdCzqM4OVxpbBgFFI3EGEKzSfH6sIL4Y5s0aMenaTor6W3fK+DSC/aN
+FqXoC3yl2hLCmRCBTwddsE6NSw9zSR2MejDFMxDimC5yitwjRfog5GHyZX+4Eaub
+euark8xu5ne3+IQmySQqyVI+zkSvqLuVy6nP3TwolM5YYWy3OpSKFh1Km2DT3yaS
+tdjxEAN0UYTRDwgl6PA0XEC40twLt+vxRvuvtW+qX4g8fDXuw3HtAjzRSPaeRn4e
+HZVltqHo6fAGrHjs4eIm1g+xIFFDTLeTwM5o46A2u8YfgfBUiNvr2+i0IiuddwsG
+ddbxnP7LcCsjYDb1svA8DH4x7BpGClZeR20kKB8eeEqjl48PpPo/ZyojT1la8yil
+3pf2nFx6rBOqLrGA0glNLd5qRgTQXMGoRl6HfrPNz1mJVgoyQEuzbVPnO5rBirnT
+2NSloJDVKGqSHo0FWItq601+UxkxW6QqWvQvAoqmUdi3i8LEW7S1v12rvV2y1miZ
+wvZ/vPv3
+=bbuj
+-----END PGP SIGNATURE-----

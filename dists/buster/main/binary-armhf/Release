@@ -1,0 +1,5 @@
+Component: main
+Origin: github.com/dcf-maker/ppa
+Label: apt repository
+Architecture: armhf
+Description: debian package repo
