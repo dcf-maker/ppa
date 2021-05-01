@@ -20,7 +20,7 @@ export KEYNAME=98CA0B0E4D0D9A26733EF87A9133C3D646E93F5E
     gpg --default-key "${KEYNAME}" -abs -o - Release > Release.gpg
     gpg --default-key "${KEYNAME}" --clearsign -o - Release > InRelease
 )
-pwd
+
 # Commit & push
 git add -A
 git commit -m update

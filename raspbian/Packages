@@ -17,3 +17,22 @@ Description: m4bs Backup online
  M4BS. Se puede utilizar interface Web o via telned desde
  el propio amstrad.
 
+Package: m4bs
+Version: 1.0
+Architecture: all
+Maintainer: dcf-maker <dcf.maker@gmail.com>
+Depends: git, telnet, telnetd, curl, dialog, apache2, jq, megacmd
+Filename: ./m4bs-1.0_all.deb
+Size: 2712
+MD5sum: b975d3eaf9cec473d60adab030c85ce8
+SHA1: 8bc1fa2a9fc63321806ebade83d97c148bccd1a0
+SHA256: 2e11b887f9596b0ae8c35cd58108cb85b0f4ba2dc19bf11430da22c09b3788dc
+Section: misc
+Priority: optional
+Description: m4bs Backup online
+ Backup online en MEGA de la M4 Board para amstrad cpc.
+ Como hardware se utiliza Raspberry PI 3 y como sistema
+ operativo Raspbian 10 (Buster) tuneado para la aplicacion
+ M4BS. Se puede utilizar interface Web o via telned desde
+ el propio amstrad.
+
