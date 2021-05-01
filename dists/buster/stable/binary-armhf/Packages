@@ -1,20 +1,21 @@
-Package: m4bs
-Maintainer: dcf-maker <dcf.maker@gmail.com>
-Architecture: armhf 
-Version: 0.0.13
-Replaces: 
-Depends: git, telnet, telnetd, curl, dialog, apache2, jq, megacmd
-Priority: optional
-Section: misc
-Filename: pool/stable/m/m4bs/m4bs_0.0.13_armhf.deb
-Size: 62970
-SHA256: 128a38313a9bc286f18aa9ee82a6628983db37f8ed90a09578df868aac0c5c1a
-SHA1: 673faa5c9b820f1d071e824cdd46ecc86cc590df
-MD5sum: 3cbb64674bb26fac755a1e7c2ca90d43
-Description: m4bs Backup online
- Backup online en MEGA de la M4 Board para amstrad cpc.
- Como hardware se utiliza Raspberry PI 3 y como sistema
- operativo Raspbian 10 (Buster) tuneado para la aplicacion
- M4BS. Se puede utilizar interface Web o via telned desde
- el propio amstrad.
+Package: megacmd
+Version: 1.2.0-6.1
+Architecture: armhf
+Maintainer: MEGA Linux Team <linux@mega.co.nz>
+Installed-Size: 12471
+Depends: libatomic1 (>= 4.8), libc-ares2 (>= 1.7.4), libc6 (>= 2.28), libcrypto++6, libgcc1 (>= 1:4.0), libmediainfo0v5 (>= 0.7.56), libpcre3, libpcrecpp0v5 (>= 7.7), libssl1.1 (>= 1.1.1), libstdc++6 (>= 5.2), libzen0v5 (>= 0.4.31-2~), zlib1g (>= 1:1.1.4), apt-transport-https
+Priority: normal
+Section: Tools
+Filename: pool/stable/m/megacmd/megacmd_1.2.0-6.1_armhf.deb
+Size: 3156754
+SHA256: c0479d3fb34e615d49ed4be47136ad741f1f9da8dd030471596ac7fa15a4f615
+SHA1: 536e39f1d335cb4045e63d65d415fa6e731896e3
+MD5sum: 5afe260d3986c3dd333e07ca01c0a792
+Description: MEGA Command Line Interactive and Scriptable Application
+ MEGAcmd provides non UI access to MEGA services.
+ It intends to offer all the functionality
+ with your MEGA account via shell interaction.
+ It features 2 modes of interaction
+  - interactive. A shell to query your actions
+  - scriptable. A way to execute commands from a shell/a script/another program.
 

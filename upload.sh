@@ -12,7 +12,7 @@ export KEYNAME=98CA0B0E4D0D9A26733EF87A9133C3D646E93F5E
     cd ./raspbian/
 
     # Packages & Packages.gz
-    dpkg-scanpackages . /dev/null > Packages
+    dpkg-scanpackages --multiversion . > Packages
     gzip -k -f Packages
 
     # Release, Release.gpg & InRelease
