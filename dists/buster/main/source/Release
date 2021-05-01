@@ -1,5 +1,0 @@
-Component: main
-Origin: github.com/dcf-maker/ppa
-Label: apt repository
-Architecture: source
-Description: debian package repo

@@ -1,28 +1,19 @@
-Origin: github.com/dcf-maker/ppa
+Origin: dcf-maker.github.io/ppa
 Label: apt repository
 Codename: buster
-Date: Fri, 30 Apr 2021 16:34:34 UTC
+Date: Sat, 01 May 2021 09:11:06 UTC
 Architectures: armhf
-Components: main
+Components: stable
 Description: debian package repo
 MD5Sum:
- 8f82afdade21df0a678784b38670ab75 1042 main/binary-armhf/Packages
- 60984236fd908a6f75938f5b3462d3f5 654 main/binary-armhf/Packages.gz
- 8fe9e74da932598f9dd5847e68f9207c 124 main/binary-armhf/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
- 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
- f202d641ec83502f94f865fbf3dd5c0b 125 main/source/Release
+ 00164c34c7458714f6de2e975f1032c6 711 stable/binary-armhf/Packages
+ a189755c6609c62bdbb11fbf9d155b51 502 stable/binary-armhf/Packages.gz
+ dca36076803680adc5627f06d01906b0 125 stable/binary-armhf/Release
 SHA1:
- f4ad5d5fa8e3a864186b44a96671ae9bb6ebe378 1042 main/binary-armhf/Packages
- 69dcc56c39b4e3fb0a3f38b75ca151511c33ef86 654 main/binary-armhf/Packages.gz
- bc879536e3b20b249da205dca855131a379ecc5c 124 main/binary-armhf/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
- 76a1aef90d12403036cd1c2eb1eb18b776b75a4a 125 main/source/Release
+ 890162c374ea6ebd0b70cbcbaf299dc1a921d7a1 711 stable/binary-armhf/Packages
+ 8fd5f2f3cca1115ca86b9481543bf740d0a7d7b2 502 stable/binary-armhf/Packages.gz
+ 79f29e24390bb7e61ef0ec38801042b72efc5e65 125 stable/binary-armhf/Release
 SHA256:
- 15202c5206f4e6fde4ba1cbaf9ccee70d58ee62670b084645f921b4f9338e01d 1042 main/binary-armhf/Packages
- ccf0ff9d927d13f2ce0659899520dc49fc4f362549a4642df93ab8759ca96ad4 654 main/binary-armhf/Packages.gz
- d32eee1265e6d4aed67bf00c26d991cd94cbaaf384fe975d6be10dab40c79139 124 main/binary-armhf/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
- 75e2a26e258945024f1ab5b0cfc9d86dc285a2f75834004c70ef2dab35137892 125 main/source/Release
+ ff202ebd1ef914b2baf4248b87123e7ff916b24e1213e5079144f38dcb3cfaaa 711 stable/binary-armhf/Packages
+ 391a1d158e4857c05d1038da12ba0c781fbcfe23f6798fbfb7377963975e5dbc 502 stable/binary-armhf/Packages.gz
+ fd5cceaf7c28a372539705aaefb7e0e84546ee31372cb9bf45d1c97de56482f4 125 stable/binary-armhf/Release

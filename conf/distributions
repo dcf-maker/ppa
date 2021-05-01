@@ -1,8 +1,8 @@
-Origin: github.com/dcf-maker/ppa
+Origin: dcf-maker.github.io/ppa
 Label: apt repository
 Codename: buster
-Architectures: armhf source
-Components: main
+Architectures: armhf
+Components: stable
 Description: debian package repo
 SignWith: yes
 Pull: buster
