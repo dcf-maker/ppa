@@ -6,6 +6,8 @@ jobs:
   ping-pong:
     runs-on: ubuntu-latest
     steps:
-      - name: Event Information
+      - uses: actions/checkout@v2
+      - name: Subida al repositorio
         run: |
           echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.VERSIONDEB }}'"
+          ls -l
