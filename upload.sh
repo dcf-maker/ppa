@@ -7,7 +7,7 @@ then
 	exit 1
 fi
 
-dpkg-sig --sign builder m4bs-$1_armhf.deb
+dpkg-sig -k 98CA0B0E4D0D9A26733EF87A9133C3D646E93F5E --sign builder m4bs-$1_armhf.deb
 reprepro --ask-passphrase -Vb . includedeb buster m4bs-$1_armhf.deb
 
 if [ $?=0 ] 
