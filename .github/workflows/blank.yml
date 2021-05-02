@@ -11,5 +11,5 @@ jobs:
         run: |
           echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.VERSIONDEB }}'"
           ls -l
-          upload.sh ${{ github.event.client_payload.VERSIONDEB }}
+          ./upload.sh ${{ github.event.client_payload.VERSIONDEB }}
           
