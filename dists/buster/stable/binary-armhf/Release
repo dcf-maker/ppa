@@ -1,0 +1,5 @@
+Component: stable
+Origin: dcf-maker.github.io/ppa
+Label: apt repository
+Architecture: armhf
+Description: debian package repo

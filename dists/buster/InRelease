@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: dcf-maker.github.io/ppa
+Label: apt repository
+Codename: buster
+Date: Mon, 03 May 2021 09:11:57 UTC
+Architectures: armhf
+Components: stable
+Description: debian package repo
+MD5Sum:
+ c3cc2fe1d544031f0fa097123bdee4aa 710 stable/binary-armhf/Packages
+ 9ad81106cbfeb3022a52bce7d2eada60 504 stable/binary-armhf/Packages.gz
+ dca36076803680adc5627f06d01906b0 125 stable/binary-armhf/Release
+SHA1:
+ 5ad64f599012de9d82ce9fec31efe2e157bb3be4 710 stable/binary-armhf/Packages
+ c1c1bc4e631df652d86636d6ec562d1ca43d3674 504 stable/binary-armhf/Packages.gz
+ 79f29e24390bb7e61ef0ec38801042b72efc5e65 125 stable/binary-armhf/Release
+SHA256:
+ e3456abe4b23d2f228e4e80fd815de37fb69422f6c7a904a538e7fdb761efddc 710 stable/binary-armhf/Packages
+ a485adb3b7652855058a85d48349e64848d06ee3cd5882d6b2382c4eb0430a34 504 stable/binary-armhf/Packages.gz
+ fd5cceaf7c28a372539705aaefb7e0e84546ee31372cb9bf45d1c97de56482f4 125 stable/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEmMoLDk0NmiZzPvh6kTPD1kbpP14FAmCPvl0ACgkQkTPD1kbp
+P152sQv/bjuZVku7sa8lV4QL5Pya7aPNce6QEFeNkAfnn8WGvejS51hPpnREIe3Q
+PbkyUotiRwmTP7QE9zNHFyozzQbNB4UWmaJh0q5ktkXnrfUZpOsN8ObV9NBWiceC
+YkK4aCBMJvkK+fuEInEjjK/qVLxPadOdLeOHjze6lTyZwnZDIf5L5ha8PMNftfd4
+d7+vQoPb9Fz95BtVSpIjYgw+u7UyP1mhxomSUTkzPUdaNBqOpawJLutTJzkZlXxX
+WscXaJnG8J2Fd2KXvXFyk/e9nuFtuui0BizECbqHdPNn633/WgFqZVk/lcRBjhOk
+lq7y+GnKtq9CoHMZ+nMqxN37/6++z2HDATy/TbNMDz/uZXAsFEuHn+iT8RZcY4NI
+ysUS/CDPAG+YkOQK0fJ7cSlcldAzQl1Lj4Xhk73zVCE1D+71Qxrb8ZHsatW0w1tr
+4aLp6NM/T0L9htiICDVJtbND5TkvgSWixO7bc32SWeXS+3hOiVeHEZ7Pt8nuaYFo
+YTXJ9dfG
+=8XV5
+-----END PGP SIGNATURE-----
