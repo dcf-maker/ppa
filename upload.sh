@@ -20,6 +20,6 @@ else
 	exit 1
 fi
 
-#git add .
-#git commit -m "Subida a repositorio de:  m4bs-$1_armhf.deb"
-#git push
+git add .
+git commit -m "Subida a repositorio de:  m4bs-$1_armhf.deb"
+git push
