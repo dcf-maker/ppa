@@ -18,6 +18,7 @@ jobs:
           echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.VERSIONDEB }}'"
           ls -l
           ./upload.sh ${{ github.event.client_payload.VERSIONDEB }}
+          git add .
           git config --local user.email "dcf.maker@gmail.com"
           git config --local user.name "dcf-maker"
           git commit -m "Add changes ${{ github.event.client_payload.VERSIONDEB }}" -a
@@ -26,4 +27,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
           
