@@ -12,6 +12,9 @@ jobs:
           sudo apt-get install reprepro dpkg-sig
       - name: Subida al repositorio
         run: |
+          gpg --import pub.key
+          gpg --import secret.key
+          gpg -k
           echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.VERSIONDEB }}'"
           ls -l
           ./upload.sh ${{ github.event.client_payload.VERSIONDEB }}
