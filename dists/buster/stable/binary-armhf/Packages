@@ -7,10 +7,10 @@ Depends: git, telnet, telnetd, curl, dialog, apache2, jq, megacmd
 Priority: optional
 Section: misc
 Filename: pool/stable/m/m4bs/m4bs_0.0.54_armhf.deb
-Size: 9062
-SHA256: be83d84122a13f66b9698a056674ec99219d006a0e26e309aa97ea279b651f1c
-SHA1: 62635c77f1cc307b4a409064d9a6b3154652b94f
-MD5sum: 7854b76728fbc99f051894f8716781ef
+Size: 10312
+SHA256: 725439c350aabfb2ce5a905634c9cd0d57c3f9f4c366f411dd07bb20f1c32a14
+SHA1: c736e0b120531f19295e92bacef1a42849b6dc1c
+MD5sum: 9e54857db38e441ca6928a956cab5e60
 Description: m4bs Backup online
  Backup online en MEGA de la M4 Board para amstrad cpc.
  Como hardware se utiliza Raspberry PI 3 y como sistema
