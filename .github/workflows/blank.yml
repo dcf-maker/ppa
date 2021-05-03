@@ -13,7 +13,7 @@ jobs:
       - name: Subida al repositorio
         run: |
           gpg --import pub.key
-          gpg --import secret.key
+          gpg --import private.key
           gpg -k
           echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.VERSIONDEB }}'"
           ls -l
