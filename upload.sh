@@ -13,7 +13,7 @@ reprepro --ask-passphrase -Vb . includedeb buster m4bs-$1_armhf.deb
 if [ $?=0 ] 
 then 
         echo "subida correcta. Borramos m4bs-$1_armhf.deb"
-	    rm m4bs-$1_armhf.deb
+	#rm m4bs-$1_armhf.deb
         exit 0
 else
 	echo "ERROR en la subida"
