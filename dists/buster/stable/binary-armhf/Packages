@@ -1,16 +1,16 @@
 Package: m4bs
 Maintainer: dcf-maker <dcf.maker@gmail.com>
 Architecture: armhf 
-Version: 0.0.62
+Version: 0.0.63
 Replaces: 
 Depends: git, telnet, telnetd, curl, dialog, apache2, jq, megacmd
 Priority: optional
 Section: misc
-Filename: pool/stable/m/m4bs/m4bs_0.0.62_armhf.deb
-Size: 9522
-SHA256: e376338d9bc5b91a5694db1de991dc3dad5d8c9e621bd23ce36b5858ace2a9b4
-SHA1: 86cc11cf6663133ca3cd6e4ffa0c93bbc0a3c24e
-MD5sum: efa3d869461c55a73b93c4d028b513ea
+Filename: pool/stable/m/m4bs/m4bs_0.0.63_armhf.deb
+Size: 11822
+SHA256: 9433a60b351d8475c3fe0a30fab2948f784eebef37c1829207143f022ea81599
+SHA1: 8e238bc6308aab4d850632f273171271fb44cfb8
+MD5sum: 718674fafa33078102138bb812fe4415
 Description: m4bs Backup online
  Backup online en MEGA de la M4 Board para amstrad cpc.
  Como hardware se utiliza Raspberry PI 3 y como sistema
