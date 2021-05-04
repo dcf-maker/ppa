@@ -1,19 +1,19 @@
 Origin: dcf-maker.github.io/ppa
 Label: apt repository
 Codename: buster
-Date: Tue, 04 May 2021 15:11:16 UTC
+Date: Tue, 04 May 2021 16:53:55 UTC
 Architectures: armhf
 Components: stable
 Description: debian package repo
 MD5Sum:
- 8f3e0602fa195f450634aef9e00ff6f3 711 stable/binary-armhf/Packages
- 0d577b0f7661751d396aee6cdd3382dc 506 stable/binary-armhf/Packages.gz
+ 7a87e4c70841bc634cf5d850d6fce1d5 711 stable/binary-armhf/Packages
+ 5fd60984ac8c3cc3fe25a04b7b873154 504 stable/binary-armhf/Packages.gz
  dca36076803680adc5627f06d01906b0 125 stable/binary-armhf/Release
 SHA1:
- 2f3a5ee49756b1b58a39ea20ff30f7dbd764863a 711 stable/binary-armhf/Packages
- 16f9eb03f6a2fa350a357439c0a35103904d2fc9 506 stable/binary-armhf/Packages.gz
+ d4f7d56f2ac52dfd565cbdc0aca2580de9cba698 711 stable/binary-armhf/Packages
+ 743075ec28fb541c2606450f77fbcfbd3ece02b7 504 stable/binary-armhf/Packages.gz
  79f29e24390bb7e61ef0ec38801042b72efc5e65 125 stable/binary-armhf/Release
 SHA256:
- 88d3317cc56a1b147cbe21aa7c9b9dbc0b415ef18f856d8ac561f7cb3b3ba0b7 711 stable/binary-armhf/Packages
- 0ad91dc7ccb6f63ec0f6d047c55d4b1b611098eacd32d03de5cb78eb331f86de 506 stable/binary-armhf/Packages.gz
+ f0b19ac55d24adab137ea20c304c1524c827242519deb58512734277066de7ab 711 stable/binary-armhf/Packages
+ b21d8a388464a963e445af38f16d8e0381115e3e32c35feee04e88ba520f054e 504 stable/binary-armhf/Packages.gz
  fd5cceaf7c28a372539705aaefb7e0e84546ee31372cb9bf45d1c97de56482f4 125 stable/binary-armhf/Release
